@@ -1,0 +1,21 @@
+
+
+public class PlayingTeam{
+
+	private String teamName;
+	private int score;
+	private int wickets;
+	private int overs;
+
+
+public PlayingTeam(String teamNameIn, int scoreIn, int WicketsIn, int oversIn){
+	teamName = teamNameIn;
+	score = scoreIn;
+	wickets = wicketsIn;
+	overs = oversIn;
+}	
+	
+public 
+
+
+}
